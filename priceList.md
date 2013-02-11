@@ -19,7 +19,7 @@ Services Menu
 		- Half head highlights - $120
 		- Full head highlights - $140
 
-SKIN
+### SKIN
 - Make-up
 	- Glamour - $90
 	- Natural - $55
