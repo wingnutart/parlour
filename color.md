@@ -5,13 +5,14 @@ Amazing glorious color which match the customers expectations without the harmfu
 
 ### Price List:
 
-- Color
-  - men $50
-  - women $40
-- Highlights
-  - men $3294701328947.00
-  - Women 9999.00¢
-
+* Color
+	* Single process - $60
+	* Highlights
+	* Half head - $90
+	* Full head - $110
+	* Single process with
+		* Half head highlights - $120
+		* Full head highlights - $140
 
 At Parlour Hair and Skin we specialize in a single line of amazing color products - the top of the line Goldwell series of hair color products. This innovative line of hair color includes a rich depth of color options, with results that match the clients expectations. Every color treatment has the added value of revitalizing tired and damaged hair while improving its volume and texture.
 
