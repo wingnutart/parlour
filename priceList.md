@@ -1,5 +1,5 @@
 Services Menu
-###HAIR
+### HAIR
 - CUTS
 	- Women - $60
 	- Men - $35
