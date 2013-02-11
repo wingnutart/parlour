@@ -1,4 +1,15 @@
-# Cuts - A unique approach to style...
+# Cuts 
+
+### HAIR
+- CUTS
+	- Women - $60
+	- Men - $35
+- Styling
+	- Blow-out - $35
+	- Styling/up-do - $60
+	- Conditioning treatment - $25
+
+## A unique approach to style...
 
 Parlour specializes in exceptional haircuts. Whether you need a trim, cut or makeover, our organic salon has the solutions necessary to meet the most demanding styles.
 Love a long bang? Want to try a heat bob? Need to vamp out with a classic curl? We never compromise on safe organic beauty products to get you the look you love.
