@@ -1,8 +1,9 @@
 # Color
+## A unique approach to style...
 
-Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec ullamcorper nulla non metus auctor fringilla. Donec sed odio dui.
+Amazing glorious color which match the customers expectations without the harmful effects of a traditional hair color... That is the Goldwell difference. Parlour Hair and Skin is proud to be a Goldwell certified salon.
 
-## Price List:
+### Price List:
 
 - Color
   - men $50
@@ -12,10 +13,8 @@ Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luc
   - Women 9999.00¢
 
 
-Sed posuere consectetur est at lobortis. Curabitur blandit tempus porttitor. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas faucibus mollis interdum.
+At Parlour Hair and Skin we specialize in a single line of amazing color products - the top of the line Goldwell series of hair color products. This innovative line of hair color includes a rich depth of color options, with results that match the clients expectations. Every color treatment has the added value of revitalizing tired and damaged hair while improving its volume and texture.
 
-Aenean lacinia bibendum nulla sed consectetur. Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Sed posuere consectetur est at lobortis. Donec ullamcorper nulla non metus auctor fringilla. Aenean lacinia bibendum nulla sed consectetur. Nullam quis risus eget urna mollis ornare vel eu leo.
+Amazing glorious color which match the customers expectations without the harmful effects of a traditional hair color... That is the Goldwell difference. Parlour Hair and Skin is proud to be a Goldwell certified salon.
 
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Donec id elit non mi porta gravida at eget metus.
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper.
+We work with our customers to achieve their desired results over the course of a time frame - rather than an all or nothing approach that can be destructive and actually get the client further away from their desired results. We offer extensive consultation which permits the customer to explore thier options with the best results and the least damage to their hair.
