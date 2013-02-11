@@ -2,24 +2,24 @@
 
 Services Menu
 HAIR
-CUT
-	Women - $60
-	Men - $35
-Styling
-	Blow-out - $35
-	Styling/up-do - $60
-	Conditioning treatment - $25
-Bridal
-	Bride - $95
-	Bridesmaids - $75
-Color
-	Single process - $60
-	Highlights
-	Half head - $90
-	Full head - $110
-	Single process with
-		Half head highlights - $120
-		Full head highlights - $140
+* CUT
+	* Women - $60
+	* Men - $35
+* Styling
+	* Blow-out - $35
+	* Styling/up-do - $60
+	* Conditioning treatment - $25
+* Bridal
+	* Bride - $95
+	* Bridesmaids - $75
+* Color
+	* Single process - $60
+	* Highlights
+	* Half head - $90
+	* Full head - $110
+	* Single process with
+		* Half head highlights - $120
+		* Full head highlights - $140
 SKIN
 - Make-up
 	- Glamour - $90
