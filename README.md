@@ -8,7 +8,7 @@ title:    Home
 
 Static HTML Mockup for a Wingnutart production.
 
-Check out the live [Parlour Mockup](http://wingnutart.github.com/parlour] served from gh-pages)
+Check out the live [Parlour Mockup](http://wingnutart.github.com/parlour) served from gh-pages.
 
 This project uses:
 
