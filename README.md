@@ -1,9 +1,3 @@
----
-layout:   default
-comments: true
-title:    Home
----
-
 # Parlour
 
 Static HTML Mockup for a Wingnutart production.
